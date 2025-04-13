@@ -23,7 +23,7 @@ April 13 – August 1 2025
 ## 🧠 Skill Goals
 - [ ] Git Branching, Rebase, CI/CD
 - [ ] Python mastery (functions, OOP)
-- [ ] Solve 60 DSA questions
+- [ ] Solve 100 DSA questions
 - [ ] Automate tasks using Bash
 - [ ] Create a local network scanner
 
