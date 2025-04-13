@@ -11,7 +11,7 @@ Welcome to my 60-day summer upskilling journey! This repository documents my lea
 To enhance real-world development skills, beyond academics — building hands-on experience and building portfolio-worthy projects.
 
 ## 📆 Timeline
-May 1 – July 1, 2025 (60 days)
+April 13 – August 1 2025
 
 ## 📂 Structure
 
