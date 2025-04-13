@@ -1,7 +1,7 @@
 # 🧰 Module: Git, GitHub & CI/CD
 
 ## 🗓️ Duration
-May 1 – May 10
+April 13 – April 16
 
 ## 📌 Objectives
 
