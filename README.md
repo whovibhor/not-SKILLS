@@ -12,7 +12,6 @@ To enhance real-world development skills, beyond academics — building hands-on
 
 ## 📆 Timeline
 April 13 – August 1 2025
-
 ## 📂 Structure
 
 - `01_git-github/` → Version control, GitHub Actions
