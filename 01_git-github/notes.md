@@ -1,3 +1,8 @@
+## 📚 Resource
+- Git documentation
+- Online tutorials link : https://youtu.be/S7XpTAnSDL4?si=8VEJCkT0e7JNXEOI
+- Community forums (Stack Overflow, GitHub Discussions)
+
 # FOLLOW THIS :
 
 ## 1️⃣ Setting Up Git
