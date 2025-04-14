@@ -23,3 +23,5 @@
 
 
 ## ⏰ Hours Spent: 1.5 h
+- 1 hour on Git basics videos
+- 30 minutes on practicing commands
