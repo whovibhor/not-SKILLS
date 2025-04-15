@@ -32,4 +32,3 @@
 - `git stash` is useful for temporarily saving changes without committing them
 - Basic Linux Commands Like Apt Update, Apt Upgrade, Apt Install, etc.
 - Disk management while learning about partitions and file systems
-
