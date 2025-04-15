@@ -273,16 +273,3 @@ cd mydir && ls -la
 Use `&&` to run commands only if the previous one succeeds.
 
 ---
-
-> ✅ Recommended Practice:
-> - Use these commands daily to get comfortable.
-> - Combine them in shell scripts for automation.
-> - Document everything in your personal wiki (like Notion).
-
----
-
-## 📚 Next Steps
-- Learn Bash scripting basics
-- Explore systemd and cron jobs
-- Try user permissions and groups in depth
-- Use `rsync`, `scp` for file transfer
