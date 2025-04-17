@@ -1,0 +1,84 @@
+Python Revision: Variables, Control Flow, Loops, and Lists
+
+1. Variables
+Easy
+1. Declare three variables: name, age, city. Print them in a sentence.
+2. Swap two variables without using a third variable.
+3. Convert a user input (string) into an integer and print its double.
+
+Medium
+4. Write a program that takes user input for name, age, and height, then prints a formatted sentence.
+5. Create a variable that holds a list of numbers and calculates the sum without using sum().
+6. Write a program that checks if a variable is of type integer.
+
+Hard
+7. Create a program that swaps values of three variables in one line.
+8. Take an integer input and check if it's even or odd without using if-else.
+9. Implement a Python script to reverse a string without using built-in functions.
+
+2. Control Flow
+Easy
+1. Write a program that checks if a number is positive, negative, or zero.
+2. Take a user's age and print whether they are a child, teenager, or adult.
+3. Given three numbers, find the largest one using if-elif-else.
+
+Medium
+4. Write a program that checks whether a year is a leap year.
+5. Take two numbers as input and print whether they are equal, greater, or smaller.
+6. Implement a simple calculator that asks for two numbers and an operator (+, -, *, /) and prints the result.
+
+Hard
+7. Create a grading system that takes a percentage and returns a letter grade (A, B, C, etc.).
+8. Write a program that checks if a number is prime.
+9. Take a string input and check if it's a palindrome (same forwards and backward).
+
+3. Loops
+Easy
+1. Print numbers from 1 to 10 using a for loop.
+2. Print even numbers from 1 to 20 using a while loop.
+3. Calculate the sum of numbers from 1 to 100 using a loop.
+
+Medium
+4. Reverse a given string using a loop.
+5. Count how many vowels are in a user-inputted string.
+6. Print a pattern:
+    *
+    **
+    ***
+    ****
+    *****
+
+Hard
+7. Find the factorial of a number using a loop.
+8. Print Fibonacci series up to n terms.
+9. Generate a multiplication table for a given number.
+
+4. Lists
+Easy
+1. Create a list of five fruits and print each one using a loop.
+2. Find the largest number in a list.
+3. Reverse a list without using built-in functions.
+
+Medium
+4. Remove duplicates from a list without using set().
+5. Sort a list without using sort().
+6. Write a program to merge two lists and remove duplicates.
+
+Hard
+7. Find the second largest number in a list.
+8. Rotate a list left by n positions.
+9. Find all pairs in a list whose sum is equal to a given number.
+
+Final 5 Mixed Concept Questions
+1. Write a program that takes a list of numbers and prints only the even numbers using a loop and conditional statement.
+2. Implement a number guessing game where the user keeps guessing a number until they get it right.
+3. Take a sentence as input, convert it into a list of words, and print the words in reverse order.
+4. Write a program that asks for a username and password, checks if they match predefined values, and grants access or denies it.
+5. Implement a program that continuously asks for numbers until the user enters 0, then prints the sum of all numbers entered.
+
+Bonus 5 Challenging Questions
+1. Implement a simple shopping cart using a dictionary where users can add/remove items and see the total cost.
+2. Create a to-do list program that allows users to add, remove, and view tasks.
+3. Implement a banking system where a user can deposit, withdraw, and check balance.
+4. Build a Rock-Paper-Scissors game against the computer.
+5. Create a basic login system with multiple users stored in a dictionary.
