@@ -1,4 +1,4 @@
-# 📅 Day 3 – April 16, 2025
+# 📅 Day 4 – April 16, 2025
 
 ## ✅ What I Did Today
 - Automated the depolyement of site on ec2 instance when pushing on github branch.
